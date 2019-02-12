@@ -1,0 +1,33 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  margin: 5px 15px;
+}
+
+.box {
+  background-color: #FFFEE1;
+  padding: 7px;
+  border: 1px solid #AAAAAA;
+  border-radius: 5px;
+}
+
+.completed {
+  padding: 8px;
+  margin-top: 15px;
+  border-bottom: 1px solid #FAAAAA;
+}
+
+.link {
+  text-decoration: none;
+  padding-top: 15px;
+}
+
+.link-add {
+  text-decoration: none;
+  padding-top: 15px;
+  border-top: 1px solid #FAAAAA;
+}
+.each {
+  padding: 7px;
+}
